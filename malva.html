@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="malva.css">
+    <script src="https://kit.fontawesome.com/018b686263.js" crossorigin="anonymous"></script>
+    <title>MALVA</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="#">MALVA</a>
+            </div>
+            <ul class="menu-links">
+                <li class="menu-links-item"><a class="menu-link" href="/product.html">Plants</a></li>
+                <li class="menu-links-item"><a class="menu-link" href="/liveFlowers.html">New Arrivals</a></li>
+                <li class="menu-links-item"><a class="menu-link" href="/accessories.html">Accessories</a></li>
+            </ul>
+            <div class="shopping-cart">
+                <div class="basket"><a href="/basket.html"><i class="fa fa-cart-shopping"
+                            style="color: #ffffff;"></i></a></div>
+                <div class="cart-amount">0</div>
+            </div>
+            <div onclick="toggleHamburger()" class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+
+        </nav>
+    </header>
+
+    <main>
+        <section class="container con-1">
+            <div class="con-1-content">
+                <div class="con-1-copy">
+                    <h1 class="con-1-copy-h1">Happiness blooms from within</h1>
+                    <p>Our environment, the world in which we live and work,
+                        is a mirror of our attitudes and expectations.</p>
+                    <div class="con1-button">
+                        <button type="button" class="Button">
+                            <a href="/product.html">Shop now</a>
+                        </button>
+                        
+                    </div>
+                </div>
+
+                <div class="wrapper">
+                    <div class="gird-item two">
+                        <img src="/img/home1.jpg" alt="">
+                        <div class="two-block">
+                            <p>Plants</p>
+                        </div>
+                        <div class="overlayTwo">
+                            <button onclick="window.location.href='/product.html'" class="Button">Read more</button>
+                        </div>
+                    </div>
+                    <div class="gird-item four">
+                        <img src="/img/home3.jpg" alt="">
+                        <div class="four-block">
+                            <p>Live Flowers</p>
+                        </div>
+                        <div class="overlayFour">
+                            <h3>Anthurium Something</h3>
+                            <p>The flower of human being.
+                                It has meaningful of fact that the plant always grow whatever
+                                season and weather...</p>
+                            <button onclick="window.location.href='/liveFlowers.html'" class="Button">Read more</button>
+                        </div>
+                    </div>
+                    <div class="gird-item five">
+                        <img src="/img/home2.jpg" alt="">
+                        <div class="five-block">
+                            <p>Accessories</p>
+                        </div>
+                        <div class="overlayFive">
+                            <button onclick="window.location.href='/accessories.html'" class="Button">Read more</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section class="container con-2">
+            <div class="con-2-info">
+                <div>
+                    <p>Featured</p>
+                </div>
+                <a href="/product.html">View All</a>
+            </div>
+            <div class="con-2-pics" id="con-2-pics">
+            </div>
+            <div class="con-2-nav">
+                <button class="prev">&#8249;</button>
+                <button class="next">&#8250;</button>
+            </div>
+        </section>
+
+        <section class="container con-3">
+        </section>
+
+        <section class="container con-4">
+            <div class="con-4-info">
+                <div>
+                    <p>Colorful New Arrivals</p>
+                </div>
+                <a href="/liveFlowers.html">View All</a>
+            </div>
+            <div class="con-4-pics">
+                <article class="con-4-pic con-4-pic1">
+                    <img src="/img/liveflone.jpg" alt="">
+                    <div class="overlayFlOne">
+                        <h3>Name of the Flower</h3>
+                        <p>More information <i class="fa fa-light fa-arrow-right" style="color: white;"></i></p>
+                    </div>
+                </article>
+                <article class="con-4-pic con-4-pic2">
+                    <img src="/img/livefltwo.jpg" alt="">
+                    <div class="overlayFlTwo">
+
+                        <h3>Name of the Flower</h3>
+                        <p>More information <i class="fa fa-light fa-arrow-right" style="color: white;"></i></p>
+                    </div>
+                </article>
+                <article class="con-4-pic con-4-pic3">
+                    <img src="/img/liveflthree.jpg" alt="">
+                    <div class="overlayFlThree">
+
+                        <h3>Name of the Flower</h3>
+                        <p>More information <i class="fa fa-light fa-arrow-right" style="color: white;"></i></p>
+                    </div>
+                </article>
+                <article class="con-4-pic con-4-pic4">
+                    <img src="/img/liveflfour.jpg" alt="">
+                    <div class="overlayFlFour">
+
+                        <h3>Name of the Flower</h3>
+                        <p>More information <i class="fa fa-light fa-arrow-right" style="color: white;"></i></p>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <section class="container con-5">
+            <div class="con-5-all">
+                <div class="con-5-info">
+                    <div>
+                        <p>Colorful New Arrivals</p>
+                    </div>
+                    <a href="/accessories.html">View All</a>
+                </div>
+                <div class="con-5-pics">
+                    <div class="con-5-pic pic1">
+                        <img src="/img/acces1.jpg" alt="">
+                    </div>
+                    <div class="con-5-pic pic2">
+                        <img src="/img/acces2.jpg" alt="">
+                    </div>
+                    <div class="con-5-pic pic3">
+                        <img src="/img/acces3.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="container con-6">
+            <div class="con-6-content">
+                <div class="con-6-info">
+                    <h3>Free Shipping Services</h3>
+                    <p>*only for the same region</p>
+                    <div class="con-6-info-add">
+                        <p><i class="fa fa-phone" style="color: #9C6955;"></i></i> +38 099 999 999</p>
+                        <p><i class="fa-regular fa-envelope" style="color: #9C6955;"></i> email@mail.com</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+    </main>
+    <script src="data.js"></script>
+    <script src="malva.js"></script>
+</body>
+
+</html>

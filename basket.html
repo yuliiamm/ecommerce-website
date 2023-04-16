@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="malva.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+    <script src="https://kit.fontawesome.com/018b686263.js" crossorigin="anonymous"></script>
+    <title>Shopping Cart</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <a href="/malva.html">MALVA</a>
+            </div>
+            <ul class="menu-links">
+                <li class="menu-links-item"><a class="menu-link" href="/product.html">Plants</a></li>
+                <li class="menu-links-item"><a class="menu-link" href="/liveFlowers.html">New Arrivals</a></li>
+                <li class="menu-links-item"><a class="menu-link" href="/accessories.html">Accessories</a></li>
+            </ul>
+            <div class="shopping-cart">
+                <div class="basket"><a href="/basket.html"><i class="fa fa-cart-shopping"
+                            style="color: #ffffff;"></i></a></div>
+                <div class="cart-amount">0</div>
+            </div>
+
+            <div onclick="toggleHamburger()" class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+
+        </nav>
+    </header>
+    <main>
+        <section class="shop-cart-page">
+
+            <div class="shopping-cart-main" id="shopping-cart"></div>
+            <div id="label" class="text-center"></div>
+        </section>
+
+    </main>
+    <script src="data.js"></script>
+    <script src="dataLiveFl.js"></script>
+    <script src="dataAcc.js"></script>
+    <script src="basket.js"></script>
+</body>
+
+</html>
