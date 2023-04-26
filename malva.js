@@ -53,28 +53,6 @@ five.addEventListener("mouseout", function () {
 });
 /* end of header grid*/
 
-//same example using classes//
-// class OverlayElement {
-//     constructor(className) {
-//       const element = document.querySelector(`.${className}`);
-//       this.overlay = element.querySelector(`.overlay${className}`);
-//       element.addEventListener("mouseover", () => this.showOverlay());
-//       element.addEventListener("mouseout", () => this.hideOverlay());
-//     }
-
-//     showOverlay() {
-//       this.overlay.style.opacity = 1;
-//     }
-
-//     hideOverlay() {
-//       this.overlay.style.opacity = 0;
-//     }
-//   }
-
-//   const four = new OverlayElement("four");
-//   const two = new OverlayElement("two");
-//   const five = new OverlayElement("five");
-
 
 /*horizontal scroll*/
 
