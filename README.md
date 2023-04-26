@@ -16,14 +16,14 @@ MALVA is an e-commerce website. Built using a combination of **JavaScript**, **H
 - **Responsiveness**: The website is fully responsive up to 300px screens, ensuring that it looks great and functions well on any device.
 
 ### Demo
-Check out this video demo of the MALVA website in action: <br>
+Check out this video demo of the MALVA website in action:
 
 - Desktop Size:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bdUZnbcqhCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+https://drive.google.com/file/d/14UI7wKALkuiq_m6yW-MlGJOAkqJz_d4_/view?usp=sharing
+
 - Tablet Size:
-<iframe width="100%" height="300" src="https://youtube.com/shorts/T7UWU-xbdfk?feature=share" title="YouTube Short video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+https://drive.google.com/file/d/1Xvvydz051dqqVNhUTfUj6RuOF0vqd7nm/view?usp=sharing
+
 - Mobile Size:
-<iframe width="100%" height="300" src="https://youtube.com/shorts/E7Rcbv_dm4c?feature=share" title="YouTube Short video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://drive.google.com/file/d/1_sd-sp7TKXe1hByhVIbDYfvDko4IorVk/view?usp=sharing
 
