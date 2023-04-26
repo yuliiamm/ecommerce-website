@@ -4,9 +4,7 @@ MALVA is an e-commerce website. Built using a combination of **JavaScript**, **H
 ## Table of Contents
 - [Features](#features)<br>
 - [Demo](#demo)<br>
-- [Installation and Usage](#installation-and-usage)<br>
-- [Contributing](#contributing)<br>
-- [License](#license)<br>
+- [Installation](#installation)<br>
 - [Contact](#contact)<br>
 
 ### Features
@@ -27,3 +25,18 @@ https://drive.google.com/file/d/1Xvvydz051dqqVNhUTfUj6RuOF0vqd7nm/view?usp=shari
 - Mobile Size:
 https://drive.google.com/file/d/1_sd-sp7TKXe1hByhVIbDYfvDko4IorVk/view?usp=sharing
 
+### Installation
+To use the JavaScript file, follow these steps:
+
+- Go to the GitHub repository for the project and click on the green "Code" button in the top right corner of the page.
+- Select "Download ZIP" from the dropdown menu.
+- Extract the contents of the downloaded zip file to a directory on your computer.
+- Navigate to the directory where you extracted the files.
+- Find the JavaScript file you want to use and move it to the directory where you want to use it in your project.
+
+### Contact
+
+If you have any questions or feedback about this project, please feel free to get in touch with us using one of the following methods:
+
+- Email: ymaksymiuk@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yuliia-maksymiuk-0b65aa241/ 
