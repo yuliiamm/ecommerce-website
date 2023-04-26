@@ -1,7 +1,7 @@
 let con2PicsItemsDataLive = [
   {
     id: "firstlive",
-    name: "Peperonia Ginny",
+    name: "Peperonia Ross",
     price: 235,
     desc: "Read more",
     img: "/img/liveflone.jpg",
@@ -10,34 +10,34 @@ let con2PicsItemsDataLive = [
   },
   {
     id: "secondlive",
-    name: "Ginny",
+    name: "Ross",
     price: 25,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/livefltwo.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "thirdlive",
-    name: "Color Ginny",
+    name: "Color Ross",
     price: 45,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflthree.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "fourthlive",
-    name: "Shirt Ginny",
+    name: "Shirt Ross",
     price: 235,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflfour.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "fifthlive",
-    name: "Black Ginny",
+    name: "Black Ross",
     price: 215,
     desc: "Read more",
     img: "/img/liveflone.jpg",
@@ -46,34 +46,34 @@ let con2PicsItemsDataLive = [
   },
   {
     id: "sixthlive",
-    name: "Some Ginny",
+    name: "Some Ross",
     price: 255,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/livefltwo.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "seventhlive",
-    name: "Peperonia Ginny",
+    name: "Peperonia Ross",
     price: 125,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflthree.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "eightlive",
-    name: "Peperonia Ginny",
+    name: "Peperonia Ross",
     price: 525,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflfour.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "ninthlive",
-    name: "Peperonia Ginny",
+    name: "Peperonia Ross",
     price: 235,
     desc: "Read more",
     img: "/img/liveflone.jpg",
@@ -82,34 +82,34 @@ let con2PicsItemsDataLive = [
   },
   {
     id: "tenthlive",
-    name: "Ginny",
+    name: "Ross",
     price: 25,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/livefltwo.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "eleventhlive",
-    name: "Color Ginny",
+    name: "Color Ross",
     price: 45,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflthree.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "twelfthlive",
-    name: "Shirt Ginny",
+    name: "Shirt Ross",
     price: 235,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflfour.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "thirteenlive",
-    name: "Black Ginny",
+    name: "Black Ross",
     price: 215,
     desc: "Read more",
     img: "/img/liveflone.jpg",
@@ -118,28 +118,28 @@ let con2PicsItemsDataLive = [
   },
   {
     id: "fourteenlive",
-    name: "Some Ginny",
+    name: "Some Ross",
     price: 255,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/livefltwo.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "fifteenlive",
-    name: "Peperonia Ginny",
+    name: "Peperonia Ross",
     price: 125,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflthree.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },
   {
     id: "sixteenlive",
-    name: "Peperonia Ginny",
+    name: "Peperonia Ross",
     price: 525,
     desc: "Read more",
-    img: "/img/liveflone.jpg",
+    img: "/img/liveflfour.jpg",
     deskb:
       "Anthurium is a flowering plant known for its vibrant and glossy heart-shaped leaves",
   },

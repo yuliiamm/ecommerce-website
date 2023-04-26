@@ -21,6 +21,11 @@
 
 /*img,button,cursor*/
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 img {
     width: 100%
 }
@@ -626,14 +631,14 @@ could fit the container and be of the same size as original*/
     justify-content: space-between;
     flex-wrap: nowrap;
     transition: transform 0.3s ease-in-out;
-   
+
 }
 
 .con-2-pics img {
-    object-fit: cover; /* scale the images to fit the container */
-    height: 220px; /* ensure the images take up the full height of the container */
-    width: 170px; /* allow the images to scale proportionally */
-  }
+    object-fit: cover;
+    height: 220px;
+    width: 170px;
+}
 
 .con-2-pic {
     flex: 0 0 10%;
@@ -1293,8 +1298,8 @@ could fit the container and be of the same size as original*/
     border: .05rem solid #104232;
     border-radius: 5px;
     position: relative;
-    justify-content: center; 
-   
+    justify-content: center;
+
 }
 
 .text-center {
@@ -1344,12 +1349,12 @@ could fit the container and be of the same size as original*/
 
 .buttons {
     display: flex;
-    right:40%;
+    right: 40%;
     gap: .5rem;
     position: absolute;
-    bottom: 50%; /* position the buttons at the bottom of the container */
-    left: 50%; /* position the left edge of the buttons in the center of the container */
-    transform: translate(-50%, 50%); 
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
 }
 
 .checkout {
@@ -1423,14 +1428,15 @@ could fit the container and be of the same size as original*/
         padding-left: 1rem;
         gap: .4rem;
     }
+
     .buttons {
         display: flex;
-        right:40%;
+        right: 40%;
         gap: .5rem;
         position: absolute;
-        bottom: 50%; /* position the buttons at the bottom of the container */
-        left: 50%; /* position the left edge of the buttons in the center of the container */
-        transform: translate(-50%, 50%); 
+        bottom: 50%;
+        left: 50%;
+        transform: translate(-50%, 50%);
     }
 }
 
@@ -1440,20 +1446,22 @@ could fit the container and be of the same size as original*/
         display: flex;
         flex-direction: column;
         align-items: flex-start;
-        margin:.5rem;
+        margin: .5rem;
         height: 10rem;
         padding-left: 1rem;
         gap: .4rem;
         position: relative;
     }
+
     .buttons {
         display: flex;
         gap: .5rem;
         position: absolute;
-        bottom: 50%; /* position the buttons at the bottom of the container */
-        left: 25%; /* position the left edge of the buttons in the center of the container */
-        transform: translate(-50%, 50%); 
+        bottom: 50%;
+        left: 25%;
+        transform: translate(-50%, 50%);
     }
+
     .img-main {
         width: 120px;
         height: auto;
@@ -1478,22 +1486,25 @@ could fit the container and be of the same size as original*/
     grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
 }
 
-.main-img{
+.main-img {
     padding-bottom: 1.8rem;
 }
+
 .con-2-pic-pr {
     padding: 1rem .6rem;
     margin: 1rem auto;
-    object-fit: cover;/**/
-    height: 220px;/**/
-    width: 100px;/**/
+    object-fit: cover;
+    height: 220px;
+    width: 100px;
 }
-.con-2-pic1-name{
-margin-top: 2rem;
+
+.con-2-pic1-name {
+    margin-top: 2rem;
 }
+
 .con-2-pic1-info-desc {
     cursor: pointer;
-    
+
 }
 
 .con-2-pic1-info-desc a {
@@ -1511,7 +1522,7 @@ margin-top: 2rem;
     .con-2-pics-product {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     }
-   
+
 }
 
 /**/
@@ -1544,7 +1555,6 @@ margin-top: 2rem;
 
 .main-img+.image-text {
     position: absolute;
-    /* top: 50%; */
     left: 50%;
     width: 100%;
     height: 100%;
@@ -1558,7 +1568,7 @@ margin-top: 2rem;
     text-align: center;
     opacity: 0;
     transition: opacity 0.5s;
- 
+
 }
 
 .image-text {
